@@ -1,1 +1,6 @@
-
+pandas
+streamlit
+seaborn
+Pillow
+sweetviz 
+plotly>=5.0.0
