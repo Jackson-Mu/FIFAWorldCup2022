@@ -17,7 +17,7 @@ In our analysis, we focus on the following key variables:
 **F. Defensive Pressures Applied:** The defensive pressures applied by each team during matches.
 
 ## Repository Contents
-1. **app.py:** The Streamlit app for visualizing and interacting with the FIFA World Cup 2022 data.
+1. **appp.py:** The Streamlit app for visualizing and interacting with the FIFA World Cup 2022 data.
 2. **data/:** Folder containing the dataset used in the analysis.
 3. **requirements.txt:** List of Python dependencies required to run the Streamlit app.
 4. **README.md:** This file, providing an overview of the project.
