@@ -31,7 +31,7 @@ To explore the FIFA World Cup 2022 data:
 4. Interact with the app to visualize and analyze the data.
 
 ## Contributors
-- [Jackson Mukeshimana](https://github.com/Jackson-Mu): Curious Student
+- [Jackson](https://github.com/Jackson-Mu): Curious Student
 
 ## License
 MIT License
